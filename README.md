@@ -1,5 +1,5 @@
 # 100 Days Of Python
 
 - Day 15: Setup PyCharm 
-- Day 16: OOP
-- Day 17: OOP
+- Day 16: OOP (Coffe app)
+- Day 17: OOP (Quiz app)
