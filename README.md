@@ -3,5 +3,5 @@
 - Day 15: Setup PyCharm 
 - Day 16: OOP (Coffe app)
 - Day 17: OOP (Quiz app)
-- Day 18: (Hirst Painting app)
+- Day 18: Graphics (Hirst Painting app)
 - Day 19: event Listeners (Turtles Race app)
