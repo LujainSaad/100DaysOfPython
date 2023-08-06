@@ -5,3 +5,4 @@
 - Day 17: OOP (Quiz app)
 - Day 18: Graphics (Hirst Painting app)
 - Day 19: event Listeners (Turtles Race app)
+- Day 20: Animations & Coordinates (Snake game)
