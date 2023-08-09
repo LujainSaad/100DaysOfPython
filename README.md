@@ -1,6 +1,6 @@
 # 100 Days Of Python
 
-As a computer science graduate, I already have experience with Python from competitive programming contests and my graduation project. I find working on these projects fun, and I'm a fan of Dr. Angela's courses <3.
+As a computer science graduate, I already have experience with Python from competitive programming contests and my graduation project. I just find working on these projects fun, and I'm a fan of Dr. Angela's courses <3.
 
 
 - Day 15: Setting up PyCharm
