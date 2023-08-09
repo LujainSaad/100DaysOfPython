@@ -7,3 +7,4 @@
 - Day 19: event Listeners (Turtles Race app)
 - Day 20: Animations & Coordinates (Snake game)
 - Day 21: Class Inheritance (Snake game)
+- Day 22: (Pong game)
