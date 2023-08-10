@@ -1,9 +1,14 @@
-# 100 Days Of Python
+# ✧ 100 Days Of Python ✧
 
-- Day 15: Setup PyCharm 
-- Day 16: OOP (Coffe app)
-- Day 17: OOP (Quiz app)
-- Day 18: Graphics (Hirst Painting app)
-- Day 19: event Listeners (Turtles Race app)
-- Day 20: Animations & Coordinates (Snake game)
-- Day 21: Class Inheritance (Snake game)
+As a computer science graduate, I already have experience with Python from competitive programming contests and my graduation project. I just find working on these projects a good exercise, and I'm a fan of Dr. Angela's courses <3.
+
+
+- Day 15: Setting up PyCharm
+- Day 16: Object-Oriented Programming (Coffee App)
+- Day 17: Object-Oriented Programming (Quiz App)
+- Day 18: Graphics (Hirst Painting App)
+- Day 19: Event Listeners (Turtles Race App)
+- Day 20: Animations & Coordinates (Snake Game)
+- Day 21: Class Inheritance (Snake Game)
+- Day 22: (Pong Game)
+
