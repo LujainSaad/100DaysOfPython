@@ -1,6 +1,6 @@
 # ✧ 100 Days Of Python ✧
 
-As a computer science graduate, I already have experience with Python from competitive programming contests and my graduation project. I just find working on these projects a good exercise, and I'm a fan of Dr. Angela's courses <3.
+As a computer science graduate and currently working as an IT engineer, I already have experience with Python from competitive programming contests and my graduation project. I just find working on these projects a good exercise, and I'm a fan of Dr. Angela's courses <3.
 
 
 - Day 15: Setting up PyCharm
@@ -12,3 +12,5 @@ As a computer science graduate, I already have experience with Python from compe
 - Day 21: Class Inheritance (Snake Game)
 - Day 22: (Pong Game)
 - Day 23: (Turtle Crossing Game)
+- Day 24: Files, Directories and Paths (Snake Game)
+- Day 25: CSV Data and Pandas (U.S. States Game) 
