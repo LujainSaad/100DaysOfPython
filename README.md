@@ -13,4 +13,5 @@ As a computer science graduate and currently working as an IT engineer, I alread
 - Day 22: (Pong Game)
 - Day 23: (Turtle Crossing Game)
 - Day 24: Files, Directories and Paths (Snake Game)
-- Day 25: CSV Data and Pandas (U.S. States Game) 
+- Day 25: CSV Data and Pandas (U.S. States Game)
+- Day 26: List & Dictionary Comprehension (NATO Alphabet)
