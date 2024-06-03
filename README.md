@@ -17,6 +17,7 @@ As a computer science graduate and currently working as an IT engineer, I alread
 - Day 26: List & Dictionary Comprehension (NATO Alphabet)
 - Day 27: GUI with Tkinter, *args, and **kwargs (Mile to Km Converter)
 - Day 28: Tkinter and Dynamic Typing (Pomodoro Application)
-- Day 29: GUI and Tkinter(Password Manager)
+- Day 29: GUI and Tkinter (Password Manager)
+- Day 30: Errors, Exceptions and JSON Data (Password Manager)
 
 
